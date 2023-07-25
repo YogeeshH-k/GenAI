@@ -1,5 +1,3 @@
-# write a class to call openai APIs and return the response
-
 import openai
 from django.conf import settings
 
